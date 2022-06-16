@@ -3,12 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
 </h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/pchchv">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
   <a href="https://www.instagram.com/pchchv">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -17,7 +14,14 @@
   </a>
 </div>
 <h1></h1>
+:man_technologist: &nbsp;About Me :
 
+I'm Jack, a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I'm studying programming and looking for a job as a junior developer.
+- ⚡ In my free time, I study dietetics, nutrition, content creation and wine, read technical articles, and travel.
+- 📫 How to reach me: [![Telegram Plastic](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white)](https://t.me/pchchv) [![Gmail Plastic](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ipchchv@gmail.com) [![Protonmail Plastic](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:pchchv@proton.me)
+
+---
 <!--
 **pchchv/pchchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
