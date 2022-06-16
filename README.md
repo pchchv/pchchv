@@ -1,7 +1,5 @@
-<h3 id="header">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
-</h3>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 </div>
@@ -16,7 +14,7 @@
 
 ---
 
-:man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I'm Jack, a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I'm studying programming and looking for a job as a junior developer.
@@ -25,7 +23,7 @@ I'm Jack, a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ---
 
-🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
@@ -41,5 +39,10 @@ I'm Jack, a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
