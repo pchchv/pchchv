@@ -26,6 +26,7 @@ I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### 🛠 &nbsp;Languages and Tools :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40"/>&nbsp;
@@ -52,6 +53,6 @@ I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
