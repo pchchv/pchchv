@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Jack
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm *Jack*
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
@@ -16,7 +16,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a *Backend Developer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I'm looking for a job as a backend developer.
 - ⚡ In my free time, I study dietetics, nutrition, content creation and wine, read technical articles, and travel.
 - 📫 How to reach me: [![Telegram Plastic](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white)](https://t.me/pchchv) [![Gmail Plastic](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ipchchv@gmail.com) [![Protonmail Plastic](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:pchchv@proton.me)
@@ -54,6 +54,6 @@ I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=nord&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=nord&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
