@@ -1,15 +1,17 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm *Jack*
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
-</div>
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.instagram.com/pchchv">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.twitter.com/pchchv">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/pchchv?template=classic&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
+
 </div>
 
 ---
@@ -54,7 +56,6 @@ I'm a *Backend Developer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=slateorange&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=transparent&hide_border=true&card_width=1000px&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
