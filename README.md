@@ -48,9 +48,3 @@ I'm a *Backend Developer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pchchv&layout=compact&theme=transparent&hide_border=true&card_width=1000px&langs_count=6&card_height=250px)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Metrics](https://metrics.lecoq.io/pchchv?template=classic&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FMoscow)
-
----
