@@ -48,3 +48,7 @@ I'm a *Backend Developer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p>
 
 ---
+
+### 🔥 &nbsp; My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchchv&theme=transparent&hide_border=true&card_width=1000px&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
