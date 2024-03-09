@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm *Jack*   
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm *Evgenii (Eugene)*   
 <div id="badges">
   <a href="https://www.instagram.com/pchchv">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -10,10 +10,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I'm a *Backend Developer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I'm looking for a job as a backend developer.
-- ⚡ In my free time, I study dietetics, nutrition, content creation and wine, read technical articles, and travel.
-- 📫 How to reach me: [![Telegram Plastic](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white)](https://t.me/pchchv) [![Gmail Plastic](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ipchchv@gmail.com) [![Protonmail Plastic](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:pchchv@proton.me)
+- **💻** I'm a *Backend Developer*  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- **⚡** In my free time, I study dietetics, nutrition, content creation and wine, read technical articles, and travel.
+- **📫** How to reach me: [![Telegram Plastic](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white)](https://t.me/pchchv) [![Gmail Plastic](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ipchchv@gmail.com) [![Protonmail Plastic](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:pchchv@proton.me)
 
 ---
 
