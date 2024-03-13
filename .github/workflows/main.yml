@@ -31,10 +31,6 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           config_timezone: Europe/Moscow
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/14486f2a3d1bf
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
