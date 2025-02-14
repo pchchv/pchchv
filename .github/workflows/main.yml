@@ -58,7 +58,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_limit_skills: 8
           plugin_leetcode_sections: solved
           plugin_leetcode_user: pchchv
           plugin_lines: yes
