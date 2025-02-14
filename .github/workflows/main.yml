@@ -49,7 +49,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: CMake, html, css
-          plugin_languages_limit: 20
+          plugin_languages_limit: 10
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
