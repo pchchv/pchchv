@@ -30,6 +30,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           base_indepth: yes
+          base_skip: yes
           config_octicon: yes
           config_timezone: Europe/Moscow
           plugin_habits: yes
@@ -39,8 +40,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
