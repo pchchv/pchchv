@@ -5,7 +5,7 @@
 - **💻** I'm a *Backend Developer*  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - **⚡** During my spare time, I research dietetics, nutrition, wine and content creation, participate in cyclical sports and travel.
 
-### **📫** How to reach me: [![Telegram Plastic](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white)](https://t.me/pchchv) [![Gmail Plastic](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ipchchv@gmail.com) [![Protonmail Plastic](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](mailto:pchchv@proton.me)
+### **📫** How to reach me: [![Telegram Plastic](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white)](https://t.me/pchchv) [![Gmail Plastic](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ipchchv@gmail.com)
 
 ---
 
